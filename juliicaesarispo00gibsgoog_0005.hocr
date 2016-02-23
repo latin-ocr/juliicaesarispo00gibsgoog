@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./juliicaesarispo00gibsgoog/juliicaesarispo00gibsgoog_0005.png"; bbox 0 0 2217 3617; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 188 909 2039 1785">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 188 909 2039 1785">
+     <span class='ocr_line' id='line_1_1' title="bbox 335 909 1805 1084; baseline 0.006 -50"><span class='ocrx_word' id='word_1_1' title='bbox 335 909 1143 1084; x_wconf 57' lang='lat' dir='ltr'><strong>*Impssir&#39;na&#39;tur</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1242 1071 1244 1073; x_wconf 72' lang='lat'><em>.</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1363 1065 1376 1078; x_wconf 65' lang='lat'><strong><em>,</em></strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1458 1068 1463 1076; x_wconf 34' lang='grc'><em>,</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1605 982 1610 991; x_wconf 53' lang='grc'><strong><em>’</em></strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1796 1069 1805 1076; x_wconf 29' lang='grc'>,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 499 1139 1531 1330; baseline -0.014 -24"><span class='ocrx_word' id='word_1_7' title='bbox 499 1139 908 1306; x_wconf 67' lang='lat' dir='ltr'><strong>Hm</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 951 1161 1415 1330; x_wconf 67' lang='lat' dir='ltr'><em>AEdrich</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1526 1305 1531 1310; x_wconf 63' lang='grc'><strong>,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 804 1413 2039 1579; baseline 0.003 -49"><span class='ocrx_word' id='word_1_10' title='bbox 804 1427 838 1478; x_wconf 68' lang='lat'><strong><em>⁵</em></strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 945 1413 2039 1579; x_wconf 8' lang='lat' dir='ltr'><strong>mensenamoxom</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 188 1643 2019 1785; baseline -0.008 -18"><span class='ocrx_word' id='word_1_12' title='bbox 188 1661 831 1785; x_wconf 53' lang='lat'><strong>&#39;1225329216932</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1308 1643 1311 1646; x_wconf 50' lang='grc'>’</span> <span class='ocrx_word' id='word_1_14' title='bbox 1926 1725 2019 1736; x_wconf 69' lang='lat'><strong>‚.„.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
